@@ -1,2 +1,6 @@
 hello this is git practise
-jai mata di
+this is my first repository ever
+working towards getting better at it.
+
+Thanks
+PArth Modi
